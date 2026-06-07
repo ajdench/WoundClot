@@ -1,0 +1,25 @@
+site_name: WoundClot vs Celox Research
+site_description: Comparative evidence review for traumatic bleeding and major haemorrhage.
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - content.code.copy
+    - toc.integrate
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+nav:
+  - Home: index.md
+  - Comparative Analysis: comparative-analysis.md
+  - Wider Research Space: wider-research-space.md
+  - Evidence Matrix: evidence-matrix.md
+  - Product Notes:
+      - WoundClot: products/woundclot.md
+      - Celox: products/celox.md
+  - Sources: sources.md
+  - Research Log: log.md
