@@ -100,6 +100,8 @@ For a serious bleeding-control kit, the research space supports buying from the 
 
 For civilian or occupational kits, the best product is usually the one that matches training and protocol, is authentic, is in-date, and is actually carried. For major hemorrhage, a cheap plain gauze used correctly may outperform an expensive hemostatic used incorrectly.
 
+Procurement should also account for counterfeit/grey-market risk. The comparison here assumes authentic, sterile, in-date products from reputable suppliers. A lower-ranked authentic product may be preferable to an uncertain product with unclear provenance.
+
 ## Implication for this comparison
 
 The deeper research space strengthens the original conclusion:

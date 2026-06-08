@@ -6,7 +6,7 @@ XStat and Surgicel are important hemorrhage-control adjuncts, but they are not g
 
 XStat uses expanding mini-sponges and is best understood as a specialty device for deep, narrow-tract wounds, particularly some junctional hemorrhage scenarios. It is not a general gauze replacement.
 
-The 2024 Heliyon rat grade-IV liver injury study found worse outcomes with XStat minisponge groups than traditional gauze packing in that model. This does not invalidate XStat's intended narrow-tract role, but it is a strong warning against extrapolating across anatomy.
+XStat has swine junctional and non-compressible hemorrhage literature, including comparisons against Combat Gauze and emerging injectable/expandable materials. The 2024 Heliyon rat grade-IV liver injury study found worse outcomes with XStat minisponge groups than traditional gauze packing in that model. This does not invalidate XStat's intended narrow-tract role, but it is a strong warning against extrapolating across anatomy.
 
 ## Surgicel
 

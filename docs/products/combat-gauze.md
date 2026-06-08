@@ -14,6 +14,8 @@ Combat Gauze is kaolin-impregnated gauze. Kaolin activates the intrinsic clottin
 
 Combat Gauze is often the comparator in animal models and systematic reviews. IDF evidence found in this review also points to QuikClot Combat Gauze rather than WoundClot or Celox.
 
+Additional relevant evidence includes swine work in hypothermic/hemodiluted models and movement/rebleeding scenarios. Those studies are important because real prehospital care involves transport, movement, resuscitation, and physiologic clotting impairment, not just static initial hemostasis.
+
 ## Limitation
 
 Its benchmark role does not mean it is intrinsically superior in every wound or patient. Severe coagulopathy, training, packing quality, and wound anatomy still matter.

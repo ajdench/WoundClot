@@ -184,3 +184,19 @@ Changes:
 Impact:
 
 - The wiki now makes the broader product hierarchy explicit: Combat Gauze benchmark; Celox and ChitoGauze strong alternatives; plain gauze essential; WoundClot promising but under-supported; XStat/Surgicel category-specific adjuncts.
+
+## 2026-06-08 analysis | General comparison evidence pass
+
+Question: Perform the indicated broader hemostatic-gauze comparative research analysis and fold it in.
+
+Added:
+
+- More detailed rationale in `product-comparison.md`.
+- Scenario-specific evidence notes: compressible hemorrhage, prolonged field care, coagulopathy, movement/rebleeding, and internal solid-organ injury.
+- Additional product-note context for Combat Gauze, ChitoGauze, and XStat/Surgicel.
+- Added sources for coagulopathic swine junctional hemorrhage, Combat Gauze movement/hypothermia studies, XStat/cryogel comparisons, and prolonged-field-care evidence.
+
+Impact:
+
+- The product comparison is now less WoundClot-vs-Celox only and more explicitly a general hemostatic gauze/adjunct analysis.
+- The WoundClot conclusion remains unchanged: it is plausible, but the evidence base is not yet comparable to Combat Gauze, Celox, or ChitoGauze for field traumatic major hemorrhage.

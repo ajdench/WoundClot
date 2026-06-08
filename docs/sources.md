@@ -47,8 +47,14 @@
 - Rall et al. 2013 swine hemorrhage comparison: https://pubmed.ncbi.nlm.nih.gov/23883900/
 - Kunio et al. 2013 swine uncontrolled hemorrhage model: https://pubmed.ncbi.nlm.nih.gov/23497917/
 - Booms et al. 2026 prolonged field-care swine pilot: https://pubmed.ncbi.nlm.nih.gov/41129387/
+- Evaluation of novel hemostatic agents in a coagulopathic swine model of junctional hemorrhage: https://pubmed.ncbi.nlm.nih.gov/37259206/
+- QuikClot Combat Gauze in hypothermic/hemodiluted swine hemorrhage: https://pmc.ncbi.nlm.nih.gov/articles/PMC4268478/
+- QuikClot Combat Gauze and movement in hypothermic/hemodiluted swine: https://pubmed.ncbi.nlm.nih.gov/25770799/
 - Celox-A/ChitoFlex/WoundStat/Combat Gauze swine penetrating trauma comparison: https://pubmed.ncbi.nlm.nih.gov/21496135/
 - Safety of long-term application of QuikClot Combat Gauze, ChitoGauze PRO, and Celox Gauze in swine: https://pubmed.ncbi.nlm.nih.gov/27487507/
+- Injectable expandable cryogel vs XStat and Combat Gauze in swine junctional hemorrhage: https://pubmed.ncbi.nlm.nih.gov/39920186/
+- Thrombin-decorated cryogels compared with XStat and Combat Gauze in lethal swine junctional hemorrhage: https://pubmed.ncbi.nlm.nih.gov/38721595/
+- XSTAT 30 for non-compressible torso hemorrhage in swine: https://pubmed.ncbi.nlm.nih.gov/33206692/
 - Catastrophic haemorrhage in military major trauma patients, UK Joint Theatre Trauma Registry: https://pubmed.ncbi.nlm.nih.gov/30287682/
 - Prehospital application of hemostatic agents in Iraq and Afghanistan: https://scholars.uthscsa.edu/en/publications/prehospital-application-of-hemostatic-agents-in-iraq-and-afghanis/
 - Prehospital hemostatic bandages and tourniquets in civilian trauma care: https://pubmed.ncbi.nlm.nih.gov/26125164/

@@ -14,6 +14,8 @@ Like Celox, ChitoGauze uses chitosan's adhesive interaction with blood and tissu
 
 The Dutch EMS 66-case ChitoGauze study is useful real-world civilian evidence. It provides a model for the kind of human trauma/EMS data WoundClot lacks.
 
+ChitoGauze also appears in swine safety and coagulopathy/prolonged-field-care comparison work alongside Combat Gauze and Celox. Its relevance to this wiki is that it belongs in the mature comparison set; WoundClot should be compared not only with Celox, but with this broader CoTCCC-recognized ecosystem.
+
 ## Limitation
 
 ChitoGauze is not the primary focus of this WoundClot-led review, and direct clinical head-to-head evidence across all mature products remains limited.

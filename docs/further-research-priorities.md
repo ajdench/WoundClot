@@ -21,6 +21,7 @@ Further research should focus on evidence that can actually change that conclusi
 | 5 | Evidence in coagulopathy, hypothermia, acidosis, and anticoagulation | Major trauma patients often clot poorly; manufacturer claims need model-specific support. |
 | 6 | Product handling and training studies | Correct wound packing and pressure often dominate product chemistry. Ease of packing, removal, retained material, and user error matter. |
 | 7 | Independent safety data | Adhesions, tissue reaction, embolization risk, infection, surgical cleanup, and foreign-body effects can drive real-world suitability. |
+| 8 | Cost, authenticity, and supply-chain reliability | In real kits, authentic in-date product from a reliable supplier matters more than nominal product class. |
 
 ## Most decision-relevant study designs
 
@@ -70,6 +71,16 @@ The critical open question is whether independent trauma-specific WoundClot stud
 - `WoundClot femoral artery`
 - `WoundClot EMS trauma case series`
 - `WoundClot Combat Gauze Celox`
+
+### General comparator literature
+
+Track studies that compare mature products under more realistic conditions:
+
+- prolonged-field-care swine models;
+- coagulopathic/hypothermic models;
+- movement and resuscitation/rebleeding models;
+- civilian EMS registry data;
+- complication/removal studies after prolonged dwell time.
 
 ### Guideline updates
 
