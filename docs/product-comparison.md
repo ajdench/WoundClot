@@ -13,6 +13,7 @@ This ranking is for **traumatic bleeding / major haemorrhage**, especially compr
 | 5 | WoundClot | Plausible cellulose-based product with FDA clearance and non-trauma human evidence, but weak independent trauma-specific evidence. |
 | 6 | XStat | Specialty expanding-sponge adjunct for deep, narrow-tract wounds. Not a general gauze substitute. |
 | 7 | Surgicel / oxidized cellulose surgical hemostats | Useful surgical adjuncts, but not a leading general prehospital traumatic hemorrhage option. |
+| Watchlist | Emerging adhesives, cryogels, shape-memory foams, halloysite gauze | Promising 2026 preclinical evidence, but not yet mature field-gauze procurement standards. |
 
 ## Why This Ranking
 
@@ -69,6 +70,10 @@ Combat Gauze has swine work specifically examining hypothermia, hemodilution, mo
 ### Internal Solid-Organ Injury
 
 The 2024 Heliyon rat liver-injury study supports a different lesson: plain gauze packing may outperform specialty adjuncts in some internal solid-organ models. This should not be generalized to external junctional wounds, but it is an important warning that product ranking changes with anatomy.
+
+### Emerging Materials
+
+Recent 2026 publications point to a future comparison set beyond today's gauzes: hemostatic tough adhesives for solid organs, expandable shape-memory materials for noncompressible hemorrhage, cryogels, and halloysite-coated gauze. These may become important, but they should sit on a watchlist until they have regulatory status, safety/removal data, training pathways, and independent field-relevant evidence.
 
 ## WoundClot-Specific Implication
 

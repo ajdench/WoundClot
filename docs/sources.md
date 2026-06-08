@@ -55,6 +55,9 @@
 - Injectable expandable cryogel vs XStat and Combat Gauze in swine junctional hemorrhage: https://pubmed.ncbi.nlm.nih.gov/39920186/
 - Thrombin-decorated cryogels compared with XStat and Combat Gauze in lethal swine junctional hemorrhage: https://pubmed.ncbi.nlm.nih.gov/38721595/
 - XSTAT 30 for non-compressible torso hemorrhage in swine: https://pubmed.ncbi.nlm.nih.gov/33206692/
+- Hemostatic Tough Adhesives seal tissue and control hemorrhage, Nature Communications 2026: https://www.nature.com/articles/s41467-026-71235-z
+- Expandable Nanocomposite Shape-Memory Hemostat, Advanced Science 2026: https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202508439
+- Halloysite-based haemostatic gauze SpeedM vs QuikClot Combat Gauze, 2026: https://www.sciencedirect.com/science/article/pii/S2666688X26000237
 - Catastrophic haemorrhage in military major trauma patients, UK Joint Theatre Trauma Registry: https://pubmed.ncbi.nlm.nih.gov/30287682/
 - Prehospital application of hemostatic agents in Iraq and Afghanistan: https://scholars.uthscsa.edu/en/publications/prehospital-application-of-hemostatic-agents-in-iraq-and-afghanis/
 - Prehospital hemostatic bandages and tourniquets in civilian trauma care: https://pubmed.ncbi.nlm.nih.gov/26125164/

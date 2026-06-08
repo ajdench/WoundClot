@@ -200,3 +200,18 @@ Impact:
 
 - The product comparison is now less WoundClot-vs-Celox only and more explicitly a general hemostatic gauze/adjunct analysis.
 - The WoundClot conclusion remains unchanged: it is plausible, but the evidence base is not yet comparable to Combat Gauze, Celox, or ChitoGauze for field traumatic major hemorrhage.
+
+## 2026-06-08 scan | Emerging-material horizon
+
+Question: Anything further?
+
+Finding:
+
+- No new WoundClot trauma-specific evidence was found in this targeted pass.
+- The useful additional layer is the 2026 emerging-materials horizon: hemostatic tough adhesives, expandable shape-memory hemostats, cryogels, and halloysite-coated gauze.
+- These products/materials may reshape future comparisons, especially for internal organ, noncompressible, or specialized junctional bleeding.
+
+Impact:
+
+- Added emerging-materials notes to the wider research space, product comparison, further research priorities, and sources.
+- Current kit/procurement ranking is unchanged: Combat Gauze benchmark; Celox and ChitoGauze strong mature alternatives; WoundClot promising but under-supported.

@@ -66,6 +66,14 @@ XStat is a different category: expanding sponges for deep, narrow-tract junction
 
 The Heliyon liver-injury study is a caution against overgeneralizing XStat success from narrow-tract external or junctional wounds into solid-organ intra-abdominal injury. The product category is anatomically specific.
 
+### Emerging materials
+
+The 2026 research frontier is moving beyond gauze-only products into tissue adhesives, expandable materials, and new mineral-coated gauzes.
+
+A 2026 Nature Communications study on Hemostatic Tough Adhesives tested a chitosan-interface hydrogel adhesive in porcine solid-organ injury models. The adhesive achieved 100% hemostasis in liver and spleen injuries in the reported preclinical model and remained adherent during follow-up, outperforming several commercial surgical adjuncts in that setting. This is important for internal organ bleeding and surgical/trauma repair, but it is not a field wound-packing gauze and should not be ranked directly against Combat Gauze, Celox, ChitoGauze, or WoundClot for compressible external hemorrhage.
+
+Other 2026 work includes expandable nanocomposite/shape-memory hemostats and a halloysite-coated gauze compared with kaolin Combat Gauze in a lethal porcine arterial hemorrhage model. These are worth tracking because they may challenge kaolin/chitosan dominance over time, but they remain emerging comparator evidence rather than current procurement-standard evidence.
+
 ## What the guidelines imply
 
 Civilian first-aid guidance is converging on:
@@ -83,6 +91,7 @@ Tactical guidance is more product-specific. CoTCCC continues to place Combat Gau
 - **Material studies are not product trials**: collagen/chitosan/cellulose bench or animal wound-healing studies can support mechanism, but they do not prove performance of a specific commercial hemostatic gauze in major trauma.
 - **Severe arterial models are unforgiving**: older US Army aortotomy work found that many dressings with plausible hemostatic mechanisms failed rapidly, underscoring the need for product-specific testing in high-flow injury models.
 - **Anatomy changes the answer**: a dressing that works for narrow-tract junctional bleeding may perform poorly in liver parenchymal injury, and vice versa.
+- **Emerging materials need translation**: promising adhesives, shape-memory foams, cryogels, and mineral-coated gauzes may outperform existing products in specific preclinical models, but they need regulatory, training, safety, and field-use evidence before changing kit recommendations.
 - **Animal models vary**: free-bleed time, injury model, vessel transection vs puncture, resuscitation, pressure duration, and survival endpoints differ.
 - **Technique dominates**: poor wound packing or insufficient pressure can make an excellent hemostatic fail.
 - **Brand generations change**: older granules, sponges, gauzes, rapid versions, and X-ray-detectable versions should not be treated as interchangeable.

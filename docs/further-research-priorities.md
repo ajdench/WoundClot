@@ -82,6 +82,16 @@ Track studies that compare mature products under more realistic conditions:
 - civilian EMS registry data;
 - complication/removal studies after prolonged dwell time.
 
+### Emerging-material watchlist
+
+Track new products only when they cross from interesting material science into field-relevant evidence:
+
+- porcine junctional/extremity hemorrhage comparisons against Combat Gauze, Celox, and ChitoGauze;
+- solid-organ injury models for internal/surgical products;
+- safety, removal, adhesion, infection, and rebleeding outcomes;
+- regulatory status and procurement availability;
+- usability by medics or lay responders under stress.
+
 ### Guideline updates
 
 Track:
