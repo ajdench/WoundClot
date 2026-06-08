@@ -1,6 +1,6 @@
-# WoundClot vs Celox Research Wiki
+# WoundClot Hemostatic Gauze Comparative Analysis
 
-Comparative research wiki for WoundClot, Celox, and the wider hemostatic dressing evidence space for traumatic bleeding / major haemorrhage.
+Research wiki evaluating WoundClot hemostatic gauze against Celox, Combat Gauze, and the wider hemostatic dressing evidence space for traumatic bleeding / major haemorrhage.
 
 ## Local preview
 

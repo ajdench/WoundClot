@@ -1,8 +1,8 @@
-# Comparative Analysis
+# WoundClot Hemostatic Gauze Comparative Analysis
 
 ## Question
 
-Which is better for traumatic bleeding / major haemorrhage: WoundClot or Celox?
+How does WoundClot hemostatic gauze compare with Celox and other mature hemostatic dressings for traumatic bleeding / major haemorrhage?
 
 ## Evidence-weighted answer
 

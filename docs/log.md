@@ -2,7 +2,7 @@
 
 ## 2026-06-07 query | Initial comparative review
 
-Question: Which is better for traumatic bleeding / major haemorrhage, WoundClot or Celox?
+Question: How does WoundClot hemostatic gauze compare with Celox for traumatic bleeding / major haemorrhage?
 
 Actions:
 
@@ -83,4 +83,4 @@ Impact:
 
 - The wider space confirms that the best-supported products are those in the CoTCCC ecosystem: Combat Gauze, Celox, and ChitoGauze.
 - Celox remains better supported than WoundClot for traumatic major haemorrhage.
-- Combat Gauze should be treated as the benchmark comparator if the decision expands beyond WoundClot vs Celox.
+- Combat Gauze should be treated as the benchmark comparator if the decision expands beyond WoundClot and Celox.
