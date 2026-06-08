@@ -25,7 +25,7 @@ The ranking weights five criteria:
 - safety and delayed complications, including rebleeding and removal;
 - applicability to common field scenarios rather than narrow surgical or internal-organ models.
 
-That weighting favors Combat Gauze, Celox, and ChitoGauze because they recur across TCCC guidance, systematic reviews, swine trauma models, and military/civilian prehospital experience. It disfavors WoundClot because its public evidence is still mostly non-trauma, manufacturer-affiliated, surgical, or dialysis-access related.
+That weighting favors QuikClot Combat Gauze, Celox Gauze/Rapid, and ChitoGauze XR PRO/PRO because those field-relevant variants recur across TCCC guidance, systematic reviews, swine trauma models, and military/civilian prehospital experience. It disfavors WoundClot EMS/First Responder because its public evidence is still mostly non-trauma, manufacturer-affiliated, surgical, or dialysis-access related.
 
 Variant discipline matters. This ranking compares field-relevant wound-packing gauzes where possible. It does not treat Celox granules, Celox-A, QuikClot Control+, XStat, Surgicel, WoundClot Surgical, or training products as direct substitutes for standard hemostatic gauze.
 
@@ -47,7 +47,7 @@ For a trauma kit or EMS/tactical formulary:
 
 1. Carry and train tourniquets for severe extremity bleeding.
 2. Carry plain gauze because packing skill remains central.
-3. If choosing hemostatic gauze, prefer products in the mature guideline/evidence ecosystem: Combat Gauze, Celox, or ChitoGauze.
+3. If choosing hemostatic gauze, prefer products in the mature guideline/evidence ecosystem: QuikClot Combat Gauze, Celox Gauze/Rapid, or ChitoGauze XR PRO/PRO.
 4. Treat WoundClot as plausible but not yet evidence-equivalent for traumatic major haemorrhage.
 5. Treat XStat and Surgicel as category-specific adjuncts, not general replacements.
 6. Check exact variant, format, and indication before buying or citing evidence.
@@ -80,4 +80,4 @@ Recent 2026 publications point to a future comparison set beyond today's gauzes:
 
 ## WoundClot-Specific Implication
 
-WoundClot needs direct trauma evidence to move up this ranking: head-to-head severe hemorrhage models against Combat Gauze/Celox/ChitoGauze and human EMS/trauma registry outcomes. Until then, the comparison remains unfavorable for WoundClot in major traumatic bleeding.
+WoundClot EMS/First Responder needs direct trauma evidence to move up this ranking: head-to-head severe hemorrhage models against QuikClot Combat Gauze, Celox Gauze/Rapid, and ChitoGauze XR PRO/PRO, plus human EMS/trauma registry outcomes. Until then, the comparison remains unfavorable for WoundClot in major traumatic bleeding.

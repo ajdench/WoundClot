@@ -1,14 +1,16 @@
-# Celox
+# Celox Variants
 
 ## Product claims and regulatory status
 
-Celox is a chitosan-based hemostatic product family. FDA materials for Celox Rapid X-Ray Gauze describe a sterile, single-use external hemostatic gauze coated with chitosan-based granules. The device forms a gel-like plug/coagulum at the bleeding site with manual pressure.
+Celox is a chitosan-based hemostatic product family. The field-comparable variants in this wiki are primarily **Celox Gauze**, **Celox Rapid**, and **Celox Rapid Ribbon**. Celox Granules and Celox-A Applicator solve related but different wound-geometry problems and should not be treated as standard gauze.
+
+FDA materials for Celox Rapid X-Ray Gauze describe a sterile, single-use external hemostatic gauze coated with chitosan-based granules. The device forms a gel-like plug/coagulum at the bleeding site with manual pressure.
 
 The FDA indication for Celox Rapid X-Ray detectable Z-fold hemostatic gauze is temporary external use to control moderate to severe bleeding, and temporary external use for bleeding of lacerations, minor cuts, and abrasions.
 
 ## Evidence found
 
-Celox has a stronger trauma evidence footprint than WoundClot:
+Celox Gauze/Rapid has a stronger trauma evidence footprint than WoundClot EMS/First Responder:
 
 - A randomized clinical trial in civilian penetrating limb trauma found Celox-coated gauze reduced time to hemostasis and blood loss compared with conventional pressure dressing.
 - A randomized, controlled swine femoral arteriotomy no-hold model found Celox Rapid had lower secondary blood loss and shorter packing time than standard gauze or Combat Gauze.
@@ -21,7 +23,7 @@ Celox has a stronger trauma evidence footprint than WoundClot:
 
 ## Relevance to traumatic major haemorrhage
 
-Celox is not uniquely proven superior to every established hemostatic gauze. The literature remains limited and product generation matters. But compared with WoundClot, Celox has much more directly relevant evidence for prehospital and traumatic bleeding.
+Celox is not uniquely proven superior to every established hemostatic gauze. The literature remains limited and product generation matters. But compared with WoundClot EMS/First Responder, Celox Gauze/Rapid has much more directly relevant evidence for prehospital and traumatic bleeding.
 
 ## Israeli / IDF signal
 

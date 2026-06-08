@@ -13,7 +13,7 @@ Actions:
 
 Synthesis:
 
-- Celox is better supported for traumatic bleeding / major haemorrhage.
+- Celox Gauze/Rapid is better supported for traumatic bleeding / major haemorrhage.
 - WoundClot has plausible mechanism and clearance, but the public evidence found is not as trauma-specific or guideline-supported.
 
 Open questions:
@@ -199,7 +199,7 @@ Added:
 Impact:
 
 - The product comparison is now less WoundClot-vs-Celox only and more explicitly a general hemostatic gauze/adjunct analysis.
-- The WoundClot conclusion remains unchanged: it is plausible, but the evidence base is not yet comparable to Combat Gauze, Celox, or ChitoGauze for field traumatic major hemorrhage.
+- The WoundClot conclusion remains unchanged: it is plausible, but the evidence base is not yet comparable to QuikClot Combat Gauze, Celox Gauze/Rapid, or ChitoGauze XR PRO/PRO for field traumatic major hemorrhage.
 
 ## 2026-06-08 scan | Emerging-material horizon
 

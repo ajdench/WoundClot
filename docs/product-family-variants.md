@@ -54,7 +54,7 @@ WoundClot product lines include EMS/First Responder and Hospital variants. The E
 
 ### Surgicel and XStat
 
-Surgicel and XStat are useful examples of why categories must be kept separate. Surgicel is a surgical oxidized-cellulose adjunct. XStat is an expanding sponge device for specific wound geometries. Neither should be used as a simple substitute for Combat Gauze/Celox/ChitoGauze in a general hemostatic gauze ranking.
+Surgicel and XStat are useful examples of why categories must be kept separate. Surgicel is a surgical oxidized-cellulose adjunct. XStat is an expanding sponge device for specific wound geometries. Neither should be used as a simple substitute for QuikClot Combat Gauze, Celox Gauze/Rapid, or ChitoGauze XR PRO/PRO in a general hemostatic gauze ranking.
 
 ## Practical rule
 

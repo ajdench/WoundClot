@@ -1,6 +1,6 @@
 # Plain Gauze
 
-Plain gauze is not an active hemostatic product, but it is central to major hemorrhage control.
+Plain gauze is not an active hemostatic product, but it is central to major hemorrhage control. Variant format still matters: compressed gauze, Z-fold gauze, roller gauze, and large pads behave differently for wound packing, pressure dressing, and surface coverage.
 
 ## Position
 

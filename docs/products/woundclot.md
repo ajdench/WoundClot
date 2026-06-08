@@ -1,4 +1,4 @@
-# WoundClot
+# WoundClot Variants
 
 ## Product claims and regulatory status
 
@@ -6,13 +6,17 @@ WoundClot EMS/First Responder is described by the manufacturer as an FDA-cleared
 
 FDA 510(k) K140573 lists WoundClot Hemostatic Gauze for local management of bleeding wounds such as cuts, lacerations, and abrasions, and temporary treatment of severely bleeding wounds such as surgical wounds and traumatic injuries.
 
+## Variant discipline
+
+The most relevant WoundClot variant for this wiki is **WoundClot EMS/First Responder**, because the core question is prehospital traumatic hemorrhage. WoundClot Hospital, Surgical, dental, donor-site, or postoperative evidence can support general hemostatic plausibility, but should not be treated as direct evidence for field wound-packing performance unless the study uses the same product format and trauma-relevant wound model.
+
 ## Evidence found
 
 The strongest human study found in this search was in hemodialysis arteriovenous fistula decannulation, not trauma. In a prospective single-center study, WoundClot significantly shortened venous and arterial bleeding time compared with cotton gauze.
 
 The FDA 510(k) summary reports no human clinical data in the clearance file; it cites biocompatibility/bench testing and an animal femoral arteriotomy comparison to BenaCel with equivalent hemostasis performance.
 
-The WoundClot-hosted article "Managing Life-threatening Traumatic Hemorrhage: A New Solution for a Changing World Paradigm" is explicitly trauma-oriented and argues that WoundClot can be used without sustained compression, which would be operationally attractive in mass-casualty settings. Its evidentiary weight is limited: the author is listed as a clinical research administrator for Core Scientific Creations, and the paper functions as a narrative review plus product-positioning argument rather than an independent WoundClot-vs-Celox traumatic hemorrhage study.
+The WoundClot-hosted article "Managing Life-threatening Traumatic Hemorrhage: A New Solution for a Changing World Paradigm" is explicitly trauma-oriented and argues that WoundClot can be used without sustained compression, which would be operationally attractive in mass-casualty settings. Its evidentiary weight is limited: the author is listed as a clinical research administrator for Core Scientific Creations, and the paper functions as a narrative review plus product-positioning argument rather than an independent WoundClot EMS/First Responder vs Celox Gauze/Rapid traumatic hemorrhage study.
 
 ## Relevance to traumatic major haemorrhage
 

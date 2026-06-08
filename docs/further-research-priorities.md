@@ -5,7 +5,7 @@
 The current answer is evidence-weighted but not complete. The strongest conclusion available now is:
 
 - WoundClot is plausible but under-supported for traumatic major haemorrhage.
-- Celox has better trauma-specific support.
+- Celox Gauze/Rapid has better trauma-specific support.
 - Combat Gauze remains the benchmark comparator.
 
 Further research should focus on evidence that can actually change that conclusion, not simply add more general hemostasis background.
@@ -140,4 +140,4 @@ For traumatic major haemorrhage, the better questions are:
 
 ## Current research answer
 
-Further research could change the WoundClot assessment, but the specific missing evidence is substantial. Until WoundClot has independent trauma-specific evidence comparable to Celox, Combat Gauze, or ChitoGauze, it should remain categorized as **promising but under-supported for traumatic major haemorrhage**.
+Further research could change the WoundClot assessment, but the specific missing evidence is substantial. Until WoundClot EMS/First Responder has independent trauma-specific evidence comparable to Celox Gauze/Rapid, QuikClot Combat Gauze, or ChitoGauze XR PRO/PRO, it should remain categorized as **promising but under-supported for traumatic major haemorrhage**.
