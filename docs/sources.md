@@ -15,6 +15,7 @@
 - Tripathi et al., Comparative Analysis of Collagen and Chitosan-based Dressing for Haemostatic and Wound Healing Application, AAPS PharmSciTech 22, 76 (2021), PMID 33595780, DOI 10.1208/s12249-021-01944-9: https://link.springer.com/article/10.1208/s12249-021-01944-9 and https://pubmed.ncbi.nlm.nih.gov/33595780/
 - Systematic review on topical hemostats in trauma and emergency surgery: https://pmc.ncbi.nlm.nih.gov/articles/PMC6116382/
 - Sondeen et al., Comparison of 10 Different Hemostatic Dressings in an Aortic Injury, Journal of Trauma 2003, DTIC ADA628318: https://apps.dtic.mil/sti/pdfs/ADA628318.pdf
+- Lashkarizadeh et al., Comparison of gauze packing, sponge-based, and hemostatic Surgicel wound stasis dressings to treat hemorrhages from grade IV liver injuries: An experimental study, Heliyon 2024, DOI 10.1016/j.heliyon.2024.e39894: https://www.sciencedirect.com/science/article/pii/S2405844024159257 and https://doaj.org/article/cfb13382d08c411b9747fba0a3fd3a4f
 - TCCC Guidelines Change 13-05 on chitosan-based hemostatic dressings: https://pubmed.ncbi.nlm.nih.gov/25344707/
 - 2024 American Heart Association and American Red Cross Guidelines for First Aid: https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines
 - 2025 European Resuscitation Council First Aid Guidelines: https://www.sciencedirect.com/science/article/pii/S0300957225002643

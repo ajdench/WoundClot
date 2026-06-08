@@ -50,6 +50,8 @@ Cellulose products can absorb fluid, provide a scaffold/barrier, and support clo
 
 A 2003 US Army Institute of Surgical Research porcine aortotomy study compared 10 dressings in an otherwise fatal, actively bleeding high-pressure arterial injury. The American Red Cross fibrin dressing and suture repair achieved 5/5 one-hour survival with minimal post-occlusion bleeding. Gauze had 2/9 one-hour survivors. Commercial Avitene, Surgicel, and six proprietary dressings all had 0/5 survivors. One proprietary dressing was a neutral oxidized-cellulose material and Surgicel was fibrillar absorbable oxidized cellulose; both failed in that model. This is not a WoundClot study, and WoundClot's non-oxidized/non-regenerated cellulose design should not be treated as equivalent to those older materials. The study is still an important caution: physical swelling, scaffold, platelet activation, or passive concentration mechanisms may be insufficient in extreme high-pressure arterial bleeding unless supported by relevant trauma testing.
 
+A 2024 Heliyon rat grade-IV liver injury study compared traditional gauze packing, XStat minisponge dressing, and XStat plus Surgicel. At 14 days, mortality was 0% with gauze packing and 60% in both minisponge groups. The gauze group also had less 48-hour bleeding and no adhesions, while minisponge groups developed adhesions involving liver, bowel, omentum, and abdominal wall. This is not WoundClot or Celox evidence, and it is a small rat liver-injury model rather than a prehospital junctional/extremity model. Its practical value is that it reinforces a recurring theme: advanced dressings are not automatically superior to well-applied packing, especially when anatomy, expansion mechanics, removal, and delayed complications matter.
+
 There is ongoing/registered WoundClot surgical research, but that is surgical hemostasis rather than prehospital trauma outcome evidence.
 
 ### Fibrin, gelatin, collagen, polysaccharide powders
@@ -61,6 +63,8 @@ The Sondeen aortotomy study is also a reminder that fibrin-based mechanisms can 
 ### XStat and mechanical adjuncts
 
 XStat is a different category: expanding sponges for deep, narrow-tract junctional wounds. iTClamp is a mechanical skin-closure/pressure adjunct. These do not replace gauze for most wound-packing scenarios; they solve narrower anatomic or operational problems.
+
+The Heliyon liver-injury study is a caution against overgeneralizing XStat success from narrow-tract external or junctional wounds into solid-organ intra-abdominal injury. The product category is anatomically specific.
 
 ## What the guidelines imply
 
@@ -78,6 +82,7 @@ Tactical guidance is more product-specific. CoTCCC continues to place Combat Gau
 - **Few human RCTs**: Celox has one of the rare RCTs in civilian penetrating limb trauma.
 - **Material studies are not product trials**: collagen/chitosan/cellulose bench or animal wound-healing studies can support mechanism, but they do not prove performance of a specific commercial hemostatic gauze in major trauma.
 - **Severe arterial models are unforgiving**: older US Army aortotomy work found that many dressings with plausible hemostatic mechanisms failed rapidly, underscoring the need for product-specific testing in high-flow injury models.
+- **Anatomy changes the answer**: a dressing that works for narrow-tract junctional bleeding may perform poorly in liver parenchymal injury, and vice versa.
 - **Animal models vary**: free-bleed time, injury model, vessel transection vs puncture, resuscitation, pressure duration, and survival endpoints differ.
 - **Technique dominates**: poor wound packing or insufficient pressure can make an excellent hemostatic fail.
 - **Brand generations change**: older granules, sponges, gauzes, rapid versions, and X-ray-detectable versions should not be treated as interchangeable.

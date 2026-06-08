@@ -128,3 +128,27 @@ Impact:
 - Adds important early benchmark evidence that high-pressure arterial models can defeat many plausible hemostatic mechanisms.
 - Supports the caution that cellulose/collagen/passive scaffold claims are not enough for major hemorrhage without product-specific trauma evidence.
 - Does not directly test WoundClot or Celox; it predates both current product comparisons.
+
+## 2026-06-08 ingest | Heliyon 2024 grade-IV liver injury study
+
+Source: https://www.cell.com/heliyon/fulltext/S2405-8440(24)15925-7
+
+Resolved article:
+
+- Lashkarizadeh et al., "Comparison of gauze packing, sponge-based, and hemostatic Surgicel wound stasis dressings to treat hemorrhages from grade IV liver injuries: An experimental study."
+- Heliyon 10(21), e39894, 2024.
+- DOI: 10.1016/j.heliyon.2024.e39894.
+
+Findings:
+
+- Thirty Sprague-Dawley rats were assigned to gauze packing, XStat minisponge dressing, or XStat plus Surgicel after standardized liver laceration.
+- At 2 and 10 minutes, bleeding volumes were not significantly better in the minisponge groups.
+- At 48 hours, bleeding differed significantly: gauze 0.55 +/- 0.18 mL, minisponge 1.15 +/- 0.21 mL, minisponge plus Surgicel 0.82 +/- 0.06 mL.
+- Mortality after 14 days was 0% with gauze and 60% in both minisponge groups.
+- Gauze showed no adhesions; minisponge groups showed adhesions involving abdominal organs/wall.
+
+Impact:
+
+- Not WoundClot- or Celox-specific.
+- Adds a useful anatomy-specific caution: advanced dressings, including XStat and Surgicel combinations, may not outperform traditional gauze packing in internal solid-organ injury.
+- Reinforces that "better hemostatic product" depends heavily on wound anatomy and model, not just material category.
