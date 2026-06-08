@@ -71,6 +71,8 @@ The stronger operational choice would often be whichever product your training, 
 
 The wider research space adds one important caveat: if the choice is not restricted to these two products, **QuikClot Combat Gauze is the benchmark** because it remains the TCCC dressing of choice and has the most established military/prehospital evidence footprint. Celox is a strong alternative; WoundClot remains promising but under-supported for traumatic major haemorrhage.
 
+The research most likely to change this assessment would be independent WoundClot trauma evidence: head-to-head swine hemorrhage models against Celox/Combat Gauze, and human EMS or trauma-registry data showing field hemostasis, rebleeding, safety, and surgical removal outcomes.
+
 ## Confidence
 
 Moderate. The evidence base for topical hemostatic dressings has limitations: many studies are swine models, product generations differ, and there are few direct clinical head-to-head trials. The confidence is higher for the claim that **Celox has stronger public trauma evidence than WoundClot** than for any claim that Celox is intrinsically superior in every wound type.

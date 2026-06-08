@@ -152,3 +152,20 @@ Impact:
 - Not WoundClot- or Celox-specific.
 - Adds a useful anatomy-specific caution: advanced dressings, including XStat and Surgicel combinations, may not outperform traditional gauze packing in internal solid-organ injury.
 - Reinforces that "better hemostatic product" depends heavily on wound anatomy and model, not just material category.
+
+## 2026-06-08 synthesis | Further research priorities
+
+Question: What further research would help answer the general WoundClot hemostatic gauze comparative question?
+
+Added:
+
+- Dedicated page: `further-research-priorities.md`.
+- Prioritized missing evidence list.
+- Proposed decision-relevant study designs.
+- Research tracking list for WoundClot, guideline updates, and EMS/registry evidence.
+- Additional interpretive sources for ChitoGauze civilian EMS, civilian tourniquet/hemostatic gauze implementation, and austere-setting hemostatic dressing lessons.
+
+Impact:
+
+- Clarifies that additional generic biomaterial papers are lower value than direct WoundClot trauma evidence.
+- Defines the evidence that could change the conclusion: WoundClot head-to-head severe hemorrhage models and human trauma/EMS outcomes.
