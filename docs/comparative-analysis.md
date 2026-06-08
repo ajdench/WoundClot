@@ -1,12 +1,14 @@
-# WoundClot Hemostatic Gauze Comparative Analysis
+# Hemostatic Gauze Comparative Analysis
 
 ## Question
 
-How does WoundClot hemostatic gauze compare with Celox and other mature hemostatic dressings for traumatic bleeding / major haemorrhage?
+How does WoundClot compare with the main hemostatic gauze and hemorrhage-control adjuncts for traumatic bleeding / major haemorrhage?
 
 ## Evidence-weighted answer
 
-**Celox is better supported for traumatic bleeding and major haemorrhage.** It has:
+Among the products reviewed, **Combat Gauze is the benchmark**, **Celox and ChitoGauze are the strongest mature alternatives**, and **WoundClot remains promising but under-supported for traumatic major haemorrhage**.
+
+Celox is better supported than WoundClot because it has:
 
 - Inclusion in CoTCCC/TCCC guidance as an alternative hemostatic adjunct for compressible hemorrhage not amenable to limb tourniquet use, while Combat Gauze remains the dressing of choice.
 - A civilian randomized clinical trial in penetrating limb trauma showing faster hemostasis and less blood loss versus standard pressure dressing.

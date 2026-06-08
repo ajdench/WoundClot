@@ -1,5 +1,5 @@
-site_name: WoundClot Hemostatic Gauze Comparative Analysis
-site_description: Evidence review of WoundClot hemostatic gauze against Celox, Combat Gauze, and the wider traumatic haemorrhage research space.
+site_name: Hemostatic Gauze Comparative Analysis
+site_description: WoundClot-led evidence review comparing hemostatic gauze and hemorrhage-control adjuncts for traumatic bleeding and major haemorrhage.
 site_url: https://ajdench.github.io/WoundClot/
 repo_url: https://github.com/ajdench/WoundClot
 repo_name: ajdench/WoundClot
@@ -19,11 +19,16 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Comparative Analysis: comparative-analysis.md
+  - Product Comparison: product-comparison.md
   - Wider Research Space: wider-research-space.md
   - Further Research Priorities: further-research-priorities.md
   - Evidence Matrix: evidence-matrix.md
   - Product Notes:
       - WoundClot: products/woundclot.md
       - Celox: products/celox.md
+      - Combat Gauze: products/combat-gauze.md
+      - ChitoGauze: products/chitogauze.md
+      - Plain Gauze: products/plain-gauze.md
+      - XStat and Surgicel: products/xstat-surgicel.md
   - Sources: sources.md
   - Research Log: log.md

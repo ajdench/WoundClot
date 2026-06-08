@@ -169,3 +169,18 @@ Impact:
 
 - Clarifies that additional generic biomaterial papers are lower value than direct WoundClot trauma evidence.
 - Defines the evidence that could change the conclusion: WoundClot head-to-head severe hemorrhage models and human trauma/EMS outcomes.
+
+## 2026-06-08 reframing | General hemostatic gauze comparison
+
+Question: Broaden the wiki from "WoundClot Hemostatic Gauze Comparative Analysis" to "Hemostatic Gauze Comparative Analysis" in general, while keeping WoundClot as the focus.
+
+Changes:
+
+- Retitled site and README to "Hemostatic Gauze Comparative Analysis."
+- Added `product-comparison.md` with a general ranking and comparison matrix.
+- Added product notes for Combat Gauze, ChitoGauze, plain gauze, and XStat/Surgicel.
+- Kept WoundClot as the lead case while explicitly comparing all major categories reviewed.
+
+Impact:
+
+- The wiki now makes the broader product hierarchy explicit: Combat Gauze benchmark; Celox and ChitoGauze strong alternatives; plain gauze essential; WoundClot promising but under-supported; XStat/Surgicel category-specific adjuncts.

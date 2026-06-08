@@ -1,6 +1,6 @@
-# WoundClot Hemostatic Gauze Comparative Analysis
+# Hemostatic Gauze Comparative Analysis
 
-Research wiki evaluating WoundClot hemostatic gauze against Celox, Combat Gauze, and the wider hemostatic dressing evidence space for traumatic bleeding / major haemorrhage.
+WoundClot-led research wiki comparing hemostatic gauze and hemorrhage-control adjuncts for traumatic bleeding / major haemorrhage, including Celox, QuikClot Combat Gauze, ChitoGauze, plain gauze, XStat, Surgicel, and related evidence.
 
 ## Local preview
 

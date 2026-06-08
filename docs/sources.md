@@ -7,6 +7,7 @@
 
 ## Guidelines and reviews
 
+- TCCC training material on CoTCCC-recommended hemostatic gauzes: https://tccc.org.ua/en/guide/module-06-massive-hemorrhage-control-in-tfc-cmc
 - TCCC Guidelines 2024 PDF: https://learning-media.allogy.com/api/v1/pdf/f4cf1d4e-3191-443a-befc-415838fb04f2/contents
 - Systematic review of prehospital haemostatic dressings, BMJ Military Health / PubMed: https://pubmed.ncbi.nlm.nih.gov/30711924/ and https://militaryhealth.bmj.com/content/166/3/194
 - Prehospital haemostatic dressings for trauma, Emergency Medicine Journal: https://emj.bmj.com/content/35/7/449
