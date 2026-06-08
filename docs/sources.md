@@ -28,6 +28,7 @@
 
 - WoundClot EMS/First Responder product page: https://woundclot.us/product-details/woundclot-ems-first-responder/
 - WoundClot product lines: https://woundclot.org/products/product-lines/
+- WoundClot US product lines: https://woundclot.us/product-lines/
 - WoundClot clinical information page: https://woundclot.us/clinical-information/
 - Managing Life-threatening Traumatic Hemorrhage: A New Solution for a Changing World Paradigm: https://woundclot.org/wp-content/uploads/2022/03/Managing-Life-threatening-Traumatic-Hemorrhage-A-New-Solution-for-a-Changing-world-Paradigm.pdf
 - Jerusalem Post / Reuters WoundClot article: https://www.jpost.com/business-and-innovation/tech/unique-israeli-bandage-the-more-you-bleed-the-quicker-it-works-444561
@@ -40,6 +41,10 @@
 ## Celox
 
 - Celox NA Gauze product/evidence page: https://celoxmedical.com/cxproduct/na-celox-gauze/
+- Celox haemorrhage-control product range: https://celoxmedical.com/prod-sector/haemorrhage-control-pre-hospital-north-america/
+- Celox Granules product page: https://celoxmedical.com/cxproduct/na-celox-granules/
+- Celox Rapid technical data sheet: https://celoxmedical.com/content/celox-rapid-technical-data-sheet-fda/
+- Celox Applicator product sheet: https://celoxmedical.com/wp-content/uploads/2025/01/Celox-Applicator-US.pdf
 - Celox scientific evidence page: https://celoxmedical.com/scientific-evidence/
 - Celox clinical evidence page: https://celoxmedical.com/clinical-evidence/
 - Celox Rapid X-Ray Gauze FDA 510(k) K230589: https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230589.pdf
@@ -63,7 +68,14 @@
 - Prehospital hemostatic bandages and tourniquets in civilian trauma care: https://pubmed.ncbi.nlm.nih.gov/26125164/
 - Prehospital hemostatic dressings in Dutch EMS, ChitoGauze 66-case study: https://www.sciencedirect.com/science/article/abs/pii/S0020138316000073
 - Tricol Biomedical ChitoGauze XR PRO product page: https://tricolbiomedical.com/product/chitogauze-xr-pro/
+- Tricol Biomedical ChitoGauze XR2 PRO product page: https://tricolbiomedical.com/product/chitogauze-xr2-pro/
 - FDA 510(k) K153582, Prometheus ChitoGauze XR PRO: https://www.accessdata.fda.gov/cdrh_docs/pdf15/K153582.pdf
+
+## Product family variant sources
+
+- QuikClot military product family: https://quikclot.com/EN/Products/Military
+- QuikClot EMS brochure: https://quikclot.com/QuikClot-2020/Brochures/EMQuikClotEMSbrochureMC-007213.pdf
+- TrueClot training products: https://www.trueclot.com/products/
 - Bleeding Control Using Hemostatic Dressings: Lessons Learned: https://journals.sagepub.com/doi/10.1016/j.wem.2016.12.005
 - Civilian prehospital tourniquets systematic review: https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/prehospital-tourniquets-in-civilians-a-systematic-review/3AE542FF7576B79034E1053A54C28243
 - QuikClot Control+ cardiac surgery randomized trial: https://pmc.ncbi.nlm.nih.gov/articles/PMC10328980/

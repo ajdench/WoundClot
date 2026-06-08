@@ -27,6 +27,8 @@ The ranking weights five criteria:
 
 That weighting favors Combat Gauze, Celox, and ChitoGauze because they recur across TCCC guidance, systematic reviews, swine trauma models, and military/civilian prehospital experience. It disfavors WoundClot because its public evidence is still mostly non-trauma, manufacturer-affiliated, surgical, or dialysis-access related.
 
+Variant discipline matters. This ranking compares field-relevant wound-packing gauzes where possible. It does not treat Celox granules, Celox-A, QuikClot Control+, XStat, Surgicel, WoundClot Surgical, or training products as direct substitutes for standard hemostatic gauze.
+
 ## Comparison Matrix
 
 | Product | Material / mechanism | Strongest support | Main limitations | Best-fit use |
@@ -48,6 +50,7 @@ For a trauma kit or EMS/tactical formulary:
 3. If choosing hemostatic gauze, prefer products in the mature guideline/evidence ecosystem: Combat Gauze, Celox, or ChitoGauze.
 4. Treat WoundClot as plausible but not yet evidence-equivalent for traumatic major haemorrhage.
 5. Treat XStat and Surgicel as category-specific adjuncts, not general replacements.
+6. Check exact variant, format, and indication before buying or citing evidence.
 
 ## Evidence Notes by Scenario
 

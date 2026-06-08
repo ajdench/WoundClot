@@ -71,6 +71,7 @@ The critical open question is whether independent trauma-specific WoundClot stud
 - `WoundClot femoral artery`
 - `WoundClot EMS trauma case series`
 - `WoundClot Combat Gauze Celox`
+- product-specific variant names such as `WoundClot EMS First Responder`, `Celox Rapid`, `Celox Rapid Ribbon`, `ChitoGauze XR PRO`, and `Combat Gauze XL`.
 
 ### General comparator literature
 
@@ -81,6 +82,8 @@ Track studies that compare mature products under more realistic conditions:
 - movement and resuscitation/rebleeding models;
 - civilian EMS registry data;
 - complication/removal studies after prolonged dwell time.
+
+Also track exact product variants. A positive surgical-pad, granule, or applicator result should not be automatically credited to gauze-format field use.
 
 ### Emerging-material watchlist
 

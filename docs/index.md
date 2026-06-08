@@ -31,6 +31,7 @@ This is not medical advice or a substitute for local clinical governance, TCCC/T
 
 - [Comparative Analysis](comparative-analysis.md)
 - [Product Comparison](product-comparison.md)
+- [Product Family Variants](product-family-variants.md)
 - [Wider Research Space](wider-research-space.md)
 - [Further Research Priorities](further-research-priorities.md)
 - [Evidence Matrix](evidence-matrix.md)
