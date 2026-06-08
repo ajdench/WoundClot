@@ -8,7 +8,7 @@ This ranking is for **traumatic bleeding / major haemorrhage**, especially compr
 |---|---|---|
 | 1 | QuikClot Combat Gauze | Benchmark. TCCC dressing of choice, strong military/prehospital history, kaolin mechanism, widely fielded. |
 | 2 | Celox Gauze/Rapid | Strong chitosan alternative. Better trauma-specific public evidence than WoundClot, including civilian RCT and animal data. |
-| 3 | ChitoGauze/ChitoGauze PRO | Strong chitosan alternative. TCCC-recognized and supported by civilian EMS case-series evidence. |
+| 3 | ChitoGauze XR PRO / ChitoGauze PRO | Strong chitosan alternative. CoTCCC-recognized, x-ray-detectable in XR PRO form, FDA-cleared, and supported by civilian EMS case-series plus swine comparison evidence. |
 | 4 | Plain gauze | Not a hemostatic product, but essential. Correct packing and sustained pressure can outperform poorly used advanced products. |
 | 5 | WoundClot | Plausible cellulose-based product with FDA clearance and non-trauma human evidence, but weak independent trauma-specific evidence. |
 | 6 | XStat | Specialty expanding-sponge adjunct for deep, narrow-tract wounds. Not a general gauze substitute. |
@@ -33,7 +33,7 @@ That weighting favors Combat Gauze, Celox, and ChitoGauze because they recur acr
 |---|---|---|---|---|
 | Combat Gauze | Kaolin-impregnated gauze; activates intrinsic clotting pathway | TCCC dressing of choice, broad military adoption, field evidence, benchmark role in animal comparisons | May depend more on host coagulation than chitosan mechanisms; still requires proper packing and pressure | First-line mature hemostatic gauze for severe compressible bleeding |
 | Celox Gauze/Rapid | Chitosan-based gauze; mucoadhesive physical plug/coagulum | Civilian penetrating-trauma RCT, animal studies, TCCC alternative status, systematic-review visibility | Not proven superior to Combat Gauze in all contexts; product generations differ | Strong alternative to Combat Gauze, especially where chitosan mechanism is preferred |
-| ChitoGauze/PRO | Chitosan-based gauze | TCCC alternative status, civilian EMS 66-case study, chitosan evidence base | Less central to this WoundClot comparison than Celox; fewer head-to-head clinical trials | Strong alternative mature chitosan gauze |
+| ChitoGauze XR PRO / PRO | Chitosan-coated gauze; XR PRO includes radiopaque filament | CoTCCC status, FDA 510(k), civilian EMS 66-case study, chitosan evidence base, swine femoral/splenic efficacy evidence in 510(k), coagulopathic swine comparator study | Less direct human trauma trial evidence than Celox; fewer product-specific clinical head-to-head trials | Strong alternative mature chitosan gauze, especially when radiopacity is valued |
 | Plain gauze | Mechanical packing and pressure surface | Universal availability, core technique, strong practical role; used as comparator in many studies | No active hemostatic agent; may be less effective in severe bleeding than mature hemostatic gauze when all else is equal | Backup and baseline wound-packing material |
 | WoundClot | Non-oxidized/non-regenerated cellulose; gel matrix/scaffold and manufacturer-claimed clotting activation | FDA clearance, plausible mechanism, AV fistula bleeding-time study, surgical/deployment signals | Sparse independent trauma-specific evidence; not found in TCCC recommended list | Worth tracking; not preferred over Combat Gauze/Celox/ChitoGauze for major trauma on current evidence |
 | XStat | Expanding mini-sponges | Specialty evidence and guideline listing for deep/narrow junctional wounds | Not general wound-packing gauze; poor result in 2024 rat liver model vs gauze | Narrow-tract junctional wounds when indicated and trained |
@@ -53,7 +53,7 @@ For a trauma kit or EMS/tactical formulary:
 
 ### Compressible Junctional or Extremity Bleeding
 
-This is where Combat Gauze, Celox, and ChitoGauze have the most relevant evidence. TCCC training material identifies Combat Gauze, Celox Gauze, and ChitoGauze as CoTCCC-recommended hemostatic gauze dressings and emphasizes packing directly to the bleeding source with sustained pressure.
+This is where Combat Gauze, Celox, and ChitoGauze XR PRO/PRO have the most relevant evidence. TCCC training material identifies Combat Gauze, Celox Gauze, and ChitoGauze as CoTCCC-recommended hemostatic gauze dressings and emphasizes packing directly to the bleeding source with sustained pressure.
 
 ### Prolonged Field Care
 

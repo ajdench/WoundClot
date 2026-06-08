@@ -5,7 +5,7 @@
 The wider research space does **not** support a simple "best hemostatic gauze" ranking. It supports a more practical hierarchy:
 
 1. **Use the right intervention for the anatomy**: tourniquet for severe extremity bleeding when appropriate; wound packing plus sustained direct pressure for junctional/non-tourniquet compressible bleeding.
-2. **Use a guideline-backed hemostatic dressing when available**: Combat Gauze, Celox Gauze/Rapid, and ChitoGauze/ChitoGauze PRO have the strongest trauma-facing ecosystem.
+2. **Use a guideline-backed hemostatic dressing when available**: Combat Gauze, Celox Gauze/Rapid, and ChitoGauze XR PRO/PRO have the strongest trauma-facing ecosystem.
 3. **Treat product claims as secondary to field evidence, training, and protocol fit**.
 
 For the WoundClot-vs-Celox decision, this broader space still favors **Celox**. The more interesting nuance is that **QuikClot Combat Gauze** remains the best-established comparator and is the hemostatic dressing of choice in TCCC, while Celox is a recognized alternative with meaningful supporting evidence.
@@ -38,7 +38,7 @@ Examples: Celox Gauze/Rapid, ChitoGauze/ChitoGauze PRO.
 
 Chitosan is positively charged and interacts with negatively charged blood components. Reviews describe it as forming a physical adhesive barrier and potentially working independently of parts of the host coagulation cascade. That is why chitosan products are often discussed for hypothermia, anticoagulation, and coagulopathy.
 
-Celox has the strongest direct relevance to this project because it has a civilian penetrating-trauma RCT, military database signal, and multiple animal studies. ChitoGauze also has meaningful civilian EMS case-series evidence.
+Celox has the strongest direct relevance to this project because it has a civilian penetrating-trauma RCT, military database signal, and multiple animal studies. ChitoGauze XR PRO/PRO also has meaningful civilian EMS case-series evidence, FDA-cleared XR PRO product support, and swine comparison evidence.
 
 A 2021 AAPS PharmSciTech study comparing experimental collagen- and chitosan-coated gauzes found chitosan-coated gauze produced faster hemostasis than collagen-coated gauze and standard gauze in the reported animal/wound model endpoints. The Springer record reports hemostasis times of 179 +/- 12 s for chitosan-coated gauze, 226 +/- 15 s for collagen-coated gauze, and 506 +/- 15 s for standard gauze, with faster wound healing for chitosan than collagen. This supports the broader chitosan-material rationale, but it is not a Celox product study and not a traumatic major-hemorrhage field study.
 
@@ -104,7 +104,7 @@ For a serious bleeding-control kit, the research space supports buying from the 
 
 - **First-line benchmark**: QuikClot Combat Gauze.
 - **Strong alternative**: Celox Gauze/Rapid.
-- **Other mature alternative**: ChitoGauze/ChitoGauze PRO.
+- **Other mature alternative**: ChitoGauze XR PRO / ChitoGauze PRO.
 - **Promising but weaker trauma evidence**: WoundClot.
 
 For civilian or occupational kits, the best product is usually the one that matches training and protocol, is authentic, is in-date, and is actually carried. For major hemorrhage, a cheap plain gauze used correctly may outperform an expensive hemostatic used incorrectly.

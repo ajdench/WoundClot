@@ -62,6 +62,8 @@
 - Prehospital application of hemostatic agents in Iraq and Afghanistan: https://scholars.uthscsa.edu/en/publications/prehospital-application-of-hemostatic-agents-in-iraq-and-afghanis/
 - Prehospital hemostatic bandages and tourniquets in civilian trauma care: https://pubmed.ncbi.nlm.nih.gov/26125164/
 - Prehospital hemostatic dressings in Dutch EMS, ChitoGauze 66-case study: https://www.sciencedirect.com/science/article/abs/pii/S0020138316000073
+- Tricol Biomedical ChitoGauze XR PRO product page: https://tricolbiomedical.com/product/chitogauze-xr-pro/
+- FDA 510(k) K153582, Prometheus ChitoGauze XR PRO: https://www.accessdata.fda.gov/cdrh_docs/pdf15/K153582.pdf
 - Bleeding Control Using Hemostatic Dressings: Lessons Learned: https://journals.sagepub.com/doi/10.1016/j.wem.2016.12.005
 - Civilian prehospital tourniquets systematic review: https://www.cambridge.org/core/journals/prehospital-and-disaster-medicine/article/prehospital-tourniquets-in-civilians-a-systematic-review/3AE542FF7576B79034E1053A54C28243
 - QuikClot Control+ cardiac surgery randomized trial: https://pmc.ncbi.nlm.nih.gov/articles/PMC10328980/

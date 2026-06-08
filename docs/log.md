@@ -215,3 +215,20 @@ Impact:
 
 - Added emerging-materials notes to the wider research space, product comparison, further research priorities, and sources.
 - Current kit/procurement ranking is unchanged: Combat Gauze benchmark; Celox and ChitoGauze strong mature alternatives; WoundClot promising but under-supported.
+
+## 2026-06-08 ingest | ChitoGauze XR PRO
+
+Question: Add ChitoGauze XR PRO specifically.
+
+Findings:
+
+- ChitoGauze XR PRO is a chitosan-coated gauze with radiopaque filament, intended for external temporary control of severely bleeding wounds.
+- Tricol Biomedical lists XR PRO as CoTCCC-approved, 3 in x 4 yd Z-fold, latex free, NSN 6510-01-591-7740.
+- FDA 510(k) K153582 describes Prometheus ChitoGauze XR PRO as polyester/rayon non-woven gauze with radiopaque filament coated with chitosan.
+- K153582 reports biocompatibility, radiopacity, and two in vivo swine efficacy studies: femoral perforation and splenic capsular strip injury. No clinical data were required for the FDA evaluation.
+- ChitoGauze XR PRO appears in the coagulopathic swine junctional hemorrhage comparison where most agents, including XR PRO, showed no difference from Combat Gauze in tested efficiency parameters.
+
+Impact:
+
+- ChitoGauze page was made XR PRO-specific.
+- Product comparison now treats ChitoGauze XR PRO/PRO as a mature chitosan alternative with stronger field-trauma relevance than WoundClot.

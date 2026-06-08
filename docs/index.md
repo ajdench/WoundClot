@@ -8,7 +8,7 @@ For **traumatic bleeding / major haemorrhage**, the public record reviewed here 
 
 1. **QuikClot Combat Gauze**: benchmark and TCCC dressing of choice.
 2. **Celox Gauze/Rapid**: strong alternative; better supported than WoundClot.
-3. **ChitoGauze/ChitoGauze PRO**: mature chitosan alternative with guideline and EMS evidence.
+3. **ChitoGauze XR PRO / ChitoGauze PRO**: mature chitosan alternative with CoTCCC status, radiopaque XR PRO format, FDA clearance, EMS evidence, and swine comparison evidence.
 4. **Plain gauze**: still essential; technique can dominate product chemistry.
 5. **WoundClot**: plausible and worth tracking, but under-supported for field traumatic major haemorrhage.
 6. **XStat/Surgicel and other adjuncts**: useful in narrower anatomic or surgical contexts, not general substitutes for wound-packing gauze.
