@@ -84,3 +84,24 @@ Impact:
 - The wider space confirms that the best-supported products are those in the CoTCCC ecosystem: Combat Gauze, Celox, and ChitoGauze.
 - Celox remains better supported than WoundClot for traumatic major haemorrhage.
 - Combat Gauze should be treated as the benchmark comparator if the decision expands beyond WoundClot and Celox.
+
+## 2026-06-08 query | PMID 33595780 / DOI 10.1208/s12249-021-01944-9
+
+Question: Find and access the full paper for PMID 33595780 / DOI 10.1208/s12249-021-01944-9.
+
+Finding:
+
+- Article identified: Tripathi et al., "Comparative Analysis of Collagen and Chitosan-based Dressing for Haemostatic and Wound Healing Application," AAPS PharmSciTech 22, 76 (2021).
+- Springer exposes metadata, abstract, references, and previewed figures, but marks the article as subscription content with institutional login or paid PDF access.
+- ResearchGate lists the paper but says no full-text PDF is available and suggests requesting it from the authors.
+- No lawful open full text was found in this search pass.
+
+Accessible findings used:
+
+- The Springer abstract reports chitosan-coated gauze had faster hemostasis than collagen-coated gauze and standard gauze: 179 +/- 12 s, 226 +/- 15 s, and 506 +/- 15 s respectively.
+- It also reports faster wound healing for chitosan gauze than collagen-coated gauze.
+
+Impact:
+
+- Supports the wider chitosan-material rationale.
+- Does not directly evaluate Celox, WoundClot, or major traumatic field hemorrhage.

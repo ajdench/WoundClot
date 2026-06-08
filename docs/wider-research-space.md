@@ -40,6 +40,8 @@ Chitosan is positively charged and interacts with negatively charged blood compo
 
 Celox has the strongest direct relevance to this project because it has a civilian penetrating-trauma RCT, military database signal, and multiple animal studies. ChitoGauze also has meaningful civilian EMS case-series evidence.
 
+A 2021 AAPS PharmSciTech study comparing experimental collagen- and chitosan-coated gauzes found chitosan-coated gauze produced faster hemostasis than collagen-coated gauze and standard gauze in the reported animal/wound model endpoints. The Springer record reports hemostasis times of 179 +/- 12 s for chitosan-coated gauze, 226 +/- 15 s for collagen-coated gauze, and 506 +/- 15 s for standard gauze, with faster wound healing for chitosan than collagen. This supports the broader chitosan-material rationale, but it is not a Celox product study and not a traumatic major-hemorrhage field study.
+
 ### Cellulose-based products
 
 Examples: WoundClot, Surgicel/oxidized cellulose family, BloodSTOP-style products.
@@ -70,6 +72,7 @@ Tactical guidance is more product-specific. CoTCCC continues to place Combat Gau
 ## Main evidence limitations
 
 - **Few human RCTs**: Celox has one of the rare RCTs in civilian penetrating limb trauma.
+- **Material studies are not product trials**: collagen/chitosan/cellulose bench or animal wound-healing studies can support mechanism, but they do not prove performance of a specific commercial hemostatic gauze in major trauma.
 - **Animal models vary**: free-bleed time, injury model, vessel transection vs puncture, resuscitation, pressure duration, and survival endpoints differ.
 - **Technique dominates**: poor wound packing or insufficient pressure can make an excellent hemostatic fail.
 - **Brand generations change**: older granules, sponges, gauzes, rapid versions, and X-ray-detectable versions should not be treated as interchangeable.

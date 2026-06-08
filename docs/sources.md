@@ -12,6 +12,7 @@
 - Prehospital haemostatic dressings for trauma, Emergency Medicine Journal: https://emj.bmj.com/content/35/7/449
 - Hemostatic agents for prehospital hemorrhage control, narrative review: https://pmc.ncbi.nlm.nih.gov/articles/PMC7093954/
 - Chitosan-Based Biomaterials for Hemostatic Applications: A Review of Recent Advances: https://pmc.ncbi.nlm.nih.gov/articles/PMC10342007/ and https://pubmed.ncbi.nlm.nih.gov/37445718/
+- Tripathi et al., Comparative Analysis of Collagen and Chitosan-based Dressing for Haemostatic and Wound Healing Application, AAPS PharmSciTech 22, 76 (2021), PMID 33595780, DOI 10.1208/s12249-021-01944-9: https://link.springer.com/article/10.1208/s12249-021-01944-9 and https://pubmed.ncbi.nlm.nih.gov/33595780/
 - Systematic review on topical hemostats in trauma and emergency surgery: https://pmc.ncbi.nlm.nih.gov/articles/PMC6116382/
 - TCCC Guidelines Change 13-05 on chitosan-based hemostatic dressings: https://pubmed.ncbi.nlm.nih.gov/25344707/
 - 2024 American Heart Association and American Red Cross Guidelines for First Aid: https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines
@@ -60,3 +61,5 @@
 ## Notes on source quality
 
 Manufacturer pages are useful for product specifications and claims, but should not be treated as independent outcome evidence. FDA 510(k) files show cleared indications and substantial equivalence reasoning, not proof of superiority. Systematic reviews and clinical trials carry more weight for comparative decision-making.
+
+Springer lists Tripathi et al. 2021 as subscription content. The wiki uses the publicly visible Springer abstract/preview and metadata only, not a full-text extraction.
