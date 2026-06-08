@@ -18,7 +18,7 @@ For the WoundClot-vs-Celox decision, this broader space still favors **Celox**. 
 | First aid guidelines | AHA/Red Cross and ERC support hemostatic dressings as adjuncts to direct pressure; tourniquets are preferred for life-threatening extremity bleeding amenable to tourniquet use. | High for civilian first-aid framing, but not product-specific. |
 | Systematic reviews | Evidence is heterogeneous; Combat Gauze, Celox, ChitoGauze/HemCon dominate the prehospital literature. Few human RCTs exist. | High for identifying mature products and evidence gaps. |
 | Military registry data | UK/Iraq-Afghanistan data associate hemostatic dressing use with improved survival; IDF series supports Combat Gauze field use. | Useful real-world signal but retrospective/confounded. |
-| Animal models | Many swine models compare kaolin/chitosan dressings; chitosan products often perform at least as well as Combat Gauze, but model variation limits definitive ranking. | Useful for severe hemorrhage plausibility and product development. |
+| Animal models | Many swine models compare kaolin/chitosan dressings; chitosan products often perform at least as well as Combat Gauze, but model variation limits definitive ranking. Early US Army aortotomy work showed most plausible dressings failed in a severe high-pressure arterial model, while a fibrin dressing succeeded. | Useful for severe hemorrhage plausibility and product development. |
 | Surgical hemostat studies | Kaolin, cellulose, fibrin/collagen/gelatin products have surgical evidence, often with 3-10 minute hemostasis endpoints. | Relevant to operating rooms, less directly transferable to prehospital traumatic hemorrhage. |
 | Manufacturer case reports | Useful for hypothesis generation and deployment context. | Low comparative value. |
 
@@ -48,11 +48,15 @@ Examples: WoundClot, Surgicel/oxidized cellulose family, BloodSTOP-style product
 
 Cellulose products can absorb fluid, provide a scaffold/barrier, and support clot formation. The problem for WoundClot in this project is not absence of plausible mechanism; it is absence of comparable independent traumatic hemorrhage evidence. Surgical and dialysis-access evidence does not answer the same question as major traumatic bleeding in the field.
 
+A 2003 US Army Institute of Surgical Research porcine aortotomy study compared 10 dressings in an otherwise fatal, actively bleeding high-pressure arterial injury. The American Red Cross fibrin dressing and suture repair achieved 5/5 one-hour survival with minimal post-occlusion bleeding. Gauze had 2/9 one-hour survivors. Commercial Avitene, Surgicel, and six proprietary dressings all had 0/5 survivors. One proprietary dressing was a neutral oxidized-cellulose material and Surgicel was fibrillar absorbable oxidized cellulose; both failed in that model. This is not a WoundClot study, and WoundClot's non-oxidized/non-regenerated cellulose design should not be treated as equivalent to those older materials. The study is still an important caution: physical swelling, scaffold, platelet activation, or passive concentration mechanisms may be insufficient in extreme high-pressure arterial bleeding unless supported by relevant trauma testing.
+
 There is ongoing/registered WoundClot surgical research, but that is surgical hemostasis rather than prehospital trauma outcome evidence.
 
 ### Fibrin, gelatin, collagen, polysaccharide powders
 
 These are important in surgery and some trauma-adjacent settings, but many are not designed for lay or tactical wound packing. They can be excellent for controlled operative fields while being less suited to dirty, deep, high-flow, prehospital wounds.
+
+The Sondeen aortotomy study is also a reminder that fibrin-based mechanisms can be very powerful when the dressing supplies fibrinogen and thrombin directly to the injury site. Its successful American Red Cross fibrin dressing was not a general-purpose modern IFAK gauze, and the authors noted practical limitations including fragility and sticking when wet. Its value here is mainly as a benchmark model and mechanism lesson.
 
 ### XStat and mechanical adjuncts
 
@@ -73,6 +77,7 @@ Tactical guidance is more product-specific. CoTCCC continues to place Combat Gau
 
 - **Few human RCTs**: Celox has one of the rare RCTs in civilian penetrating limb trauma.
 - **Material studies are not product trials**: collagen/chitosan/cellulose bench or animal wound-healing studies can support mechanism, but they do not prove performance of a specific commercial hemostatic gauze in major trauma.
+- **Severe arterial models are unforgiving**: older US Army aortotomy work found that many dressings with plausible hemostatic mechanisms failed rapidly, underscoring the need for product-specific testing in high-flow injury models.
 - **Animal models vary**: free-bleed time, injury model, vessel transection vs puncture, resuscitation, pressure duration, and survival endpoints differ.
 - **Technique dominates**: poor wound packing or insufficient pressure can make an excellent hemostatic fail.
 - **Brand generations change**: older granules, sponges, gauzes, rapid versions, and X-ray-detectable versions should not be treated as interchangeable.

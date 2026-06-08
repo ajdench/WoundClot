@@ -105,3 +105,26 @@ Impact:
 
 - Supports the wider chitosan-material rationale.
 - Does not directly evaluate Celox, WoundClot, or major traumatic field hemorrhage.
+
+## 2026-06-08 ingest | DTIC ADA628318
+
+Source: https://apps.dtic.mil/sti/pdfs/ADA628318.pdf
+
+Article:
+
+- Sondeen et al., "Comparison of 10 Different Hemostatic Dressings in an Aortic Injury," Journal of Trauma, 2003.
+- US Army Institute of Surgical Research porcine aortotomy model.
+
+Findings:
+
+- A 4.4-mm aortotomy was treated through active bleeding; direct pressure was held for 4 minutes and outcomes were observed for 1 hour.
+- American Red Cross fibrin dressing: 5/5 survivors, minimal post-occlusion bleeding.
+- Suture repair: 5/5 survivors.
+- Gauze: 2/9 survivors.
+- Avitene, Surgicel, and six proprietary dressings: 0/5 survivors each.
+
+Impact:
+
+- Adds important early benchmark evidence that high-pressure arterial models can defeat many plausible hemostatic mechanisms.
+- Supports the caution that cellulose/collagen/passive scaffold claims are not enough for major hemorrhage without product-specific trauma evidence.
+- Does not directly test WoundClot or Celox; it predates both current product comparisons.

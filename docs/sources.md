@@ -14,6 +14,7 @@
 - Chitosan-Based Biomaterials for Hemostatic Applications: A Review of Recent Advances: https://pmc.ncbi.nlm.nih.gov/articles/PMC10342007/ and https://pubmed.ncbi.nlm.nih.gov/37445718/
 - Tripathi et al., Comparative Analysis of Collagen and Chitosan-based Dressing for Haemostatic and Wound Healing Application, AAPS PharmSciTech 22, 76 (2021), PMID 33595780, DOI 10.1208/s12249-021-01944-9: https://link.springer.com/article/10.1208/s12249-021-01944-9 and https://pubmed.ncbi.nlm.nih.gov/33595780/
 - Systematic review on topical hemostats in trauma and emergency surgery: https://pmc.ncbi.nlm.nih.gov/articles/PMC6116382/
+- Sondeen et al., Comparison of 10 Different Hemostatic Dressings in an Aortic Injury, Journal of Trauma 2003, DTIC ADA628318: https://apps.dtic.mil/sti/pdfs/ADA628318.pdf
 - TCCC Guidelines Change 13-05 on chitosan-based hemostatic dressings: https://pubmed.ncbi.nlm.nih.gov/25344707/
 - 2024 American Heart Association and American Red Cross Guidelines for First Aid: https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines
 - 2025 European Resuscitation Council First Aid Guidelines: https://www.sciencedirect.com/science/article/pii/S0300957225002643
@@ -63,3 +64,5 @@
 Manufacturer pages are useful for product specifications and claims, but should not be treated as independent outcome evidence. FDA 510(k) files show cleared indications and substantial equivalence reasoning, not proof of superiority. Systematic reviews and clinical trials carry more weight for comparative decision-making.
 
 Springer lists Tripathi et al. 2021 as subscription content. The wiki uses the publicly visible Springer abstract/preview and metadata only, not a full-text extraction.
+
+The DTIC-hosted Sondeen et al. PDF was accessible with browser-style request headers. It is approved for public release and distribution unlimited.
